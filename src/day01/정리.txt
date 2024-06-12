@@ -1,0 +1,25 @@
+1. 리터럴 : 프로그래밍 언어에서 미리 만들어진 값 , 개발자가 코드로 입력한 값
+    정수 : 1 , 2 , 3
+    실수 : 1.34 , 34.12
+    논리 : True , False
+    문자열 : " " , ' ' 감싼 문자열
+2. 출력함수
+    print( 리터럴 )
+3. 제어문자 , 이스케이프 문자
+    \t      들여쓰기
+    \n      줄바꿈
+    \\      \ 출력
+    \"      " 출력
+    \'      ' 출력
+
+참고문서
+    1. 용어 : http://itdanja.cafe24.com/study/info/view?cno=21&bno=366
+    2. 설치 : http://itdanja.cafe24.com/study/info/view?cno=21&bno=364
+    3. 리터럴 : http://itdanja.cafe24.com/study/info/view?cno=21&bno=367
+    4. 출력/제어문자 : http://itdanja.cafe24.com/study/info/view?cno=21&bno=368
+
+과제
+    아래 페이페이서 실습1~4 보고 동일하게 출력하는 코드 작성후 ( 파일 혹은 코드을 메일에 첨부파일 혹은 내용에 ) 하단 메일에 제출
+    http://itdanja.cafe24.com/study/info/view?cno=21&bno=368
+
+과제제출 : itdanja@kakao.com  , 선택
