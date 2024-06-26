@@ -97,7 +97,6 @@ while True : # 무한반복문
         print('----------- 선수 명단 --------------')
         for element in 축구선수리스트 :
             print( element )
-            break
     else:
         print('그외 입력했군요.')
 
