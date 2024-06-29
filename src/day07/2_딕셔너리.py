@@ -20,6 +20,23 @@
             del 변수['key']   : 해당 key의 key와value 쌍의 요소를 제거
             변수.pop('key')   : 해당 key의 key와value 쌍의 요소를 제거
             변수.clear()      : 모든 key와value 쌍을 제거 , 전체 요소 삭제
+        - key , value 반환
+            list( 변수.keys() )    : 모든 키 들을 반환후 리스트 타입으로 반환 
+            list( 변수.values() )  : 모든 값 들을 반환후 리스트 타입으로 반환 
+        - 반복문 이용한 딕셔너리 순회
+            # [1]
+            for element in menus :
+                print( element )    # key 가 하나씩 출력
+            # [2]
+            for key , value in menus.items() :
+                print( key , value )        # key 와 value 같이 출력
+            # [3]
+            for key in list( menus.keys() ) :
+                print( key )
+            # [4]
+            for value in list( menus.values() ) :
+                print( value )
+
 
 '''
 
